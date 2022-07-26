@@ -21,7 +21,7 @@ Users should be able to view the optimal layout depending on their device's scre
 
 ### Screenshot
 
-![](.images/screenshot-mobile.png)
+![](./images/screenshot-mobile.png)
 
 ### Links
 
