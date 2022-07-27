@@ -25,7 +25,7 @@ Users should be able to view the optimal layout depending on their device's scre
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/auriga2124/qr-code-component)
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/qr-code-component-S-QA0f3bGa)
 - Live Site URL: [Live site at Netlify](https://auriga-bar-code-component.netlify.app/)
 
 ## My process
